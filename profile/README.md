@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to Hella Labs
+
+https://hellalabs.dev/
+
+### OSS Repos
+[wiremock-testcontainers-nodejs](https://github.com/hella-labs/wiremock-testcontainers-nodejs) — TypeScript Testcontainers module for simulating HTTP dependencies with WireMock. Intended for realistic Node.js integration and end-to-end testing.
+
+[foundryanvil-testcontainers-nodejs](https://github.com/hella-labs/foundryanvil-testcontainers-nodejs) — TypeScript package for running Foundry Anvil through Testcontainers, enabling Ethereum integration and end-to-end tests with minimal setup.
+
+
 
 <!--
 
